@@ -1,29 +1,19 @@
-# Dependencies
 node_modules/
-
-# Build outputs
 build/
 dist/
 coverage/
 build_output*/
 
-# Environment files
 .env*
 !.env.example
 
-# Logs
 *.log
-
-# OS files
 .DS_Store
 
-# IDEs
 .vscode/
 .idea/
 
-# Tools
 expo/
 bolt/
 
-# Android / APK
 *.apk
